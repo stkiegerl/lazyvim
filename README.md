@@ -67,5 +67,5 @@ mv ~/.cache/nvim{,.bak}
 ### 5. Clone the git repository
 
 ```bash
-git clone ...
+git clone https://github.com/stkiegerl/lazyvim.git ~/.config/nvim
 ```
